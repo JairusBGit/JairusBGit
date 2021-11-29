@@ -20,6 +20,7 @@
 
 <h3 align="left">Random Quote:</h3>
 "Cirno: Of course I’ve gone mad with power! You ever try going mad without power? It’s boring! No one listens to you!!!" 
+
 [- @incorrect2hu](https://twitter.com/incorrect2hu)
 
 <h3 align="left">Random Details:</h3>
