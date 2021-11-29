@@ -23,7 +23,7 @@
 
 <h3 align="left">Random Details:</h3>
 
-- Linux Ricer (awesomewm on Arch)
+- Linux Ricer ([awesomewm](https://github.com/awesomeWM/awesome) on Arch)
 - Tetr.io Player
 - Persona & Fire Emblem Fan
 - Filipino
