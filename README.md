@@ -22,8 +22,12 @@
 "Cirno: Of course I’ve gone mad with power! You ever try going mad without power? It’s boring! No one listens to you!!!" - [@incorrect2hu](https://twitter.com/incorrect2hu) on twitter
 
 <h3 align="left">Random Details:</h3>
-- Linux Ricer (awesome on Arch)
+- Linux Ricer (awesomewm on Arch)
+
 - Tetr.io Player
+
 - Persona & Fire Emblem Fan
+
 - Filipino
+
 - Neurodivergent and a Minor
