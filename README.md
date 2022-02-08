@@ -27,7 +27,7 @@
 
 <h3 align="left">Random Details:</h3>
 
-- Linux Ricer ([awesomewm](https://github.com/awesomeWM/awesome) on Arch)
+- Linux Ricer ([GNUStep](https://wiki.debian.org/DebianGNUstep) on Debian)
 - Tetr.io Player
 - Persona & Fire Emblem Fan
 - Filipino
